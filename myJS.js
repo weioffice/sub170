@@ -8,7 +8,7 @@ var b2 = "3e68ecd1-b4d0-414e-a59e-e8a10571bc79"
 
 var firstUrl = a1 + a2;//ip-azure 
 var secondUrl = b1 + b2;//heroku
-
+   
 function getAnimation(){
     // animation data.json URL
     let commentUulJson = "https://weioffice.github.io/sub170/data.json";
